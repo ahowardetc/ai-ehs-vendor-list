@@ -1,4 +1,4 @@
-# ai-ehs-vendor-list
+# ai-ehs-vendor-list  
 A living list of AI tools for workplace health and safety
 
 # 🤖 AI Tools for Workplace Health & Safety
@@ -9,17 +9,18 @@ A curated, evolving list of AI-powered tools being used across the EHS (Environm
 
 ## 📚 Table of Contents
 
-- [🛡️ Vendor Vetting & Due Diligence](#vendor-vetting--due-diligence)
-- [📹 Computer Vision Safety Tools](#computer-vision-safety-tools)
-- [🏃‍♂️ AI-Powered Wearable Safety Devices](#ai-powered-wearable-safety-devices)
-- [📋 JHA / JSA Tools with AI Capability](#jha--jsa-tools-with-ai-capability)
-- [🗣️ Natural Language Processing (NLP) Tools for Safety Management](#natural-language-processing-nlp-tools-for-safety-management)
-- [🧰 Traditional EHS Platforms with AI Features](#traditional-ehs-platforms-with-ai-features)
-- [🧩 Open Source AI Tools for Workplace Safety](#open-source-ai-tools-for-workplace-safety)
-- [🙌 Contributing](#contributing)
+- Vendor Vetting & Due Diligence 🛡️  
+- Computer Vision Safety Tools 📹  
+- AI-Powered Wearable Safety Devices 🏃‍♂️  
+- JHA / JSA Tools with AI Capability 📋  
+- Natural Language Processing (NLP) Tools for Safety Management 🗣️  
+- Traditional EHS Platforms with AI Features 🧰  
+- Open Source AI Tools for Workplace Safety 🧩  
+- Contributing 🙌  
 
 ---
-## 🛡️ Vendor Vetting & Due Diligence
+
+## Vendor Vetting & Due Diligence 🛡️
 
 > ⚠️ **Heads up: this list is for exploration, not endorsement.**
 >
@@ -39,15 +40,17 @@ A curated, evolving list of AI-powered tools being used across the EHS (Environm
 > - How does it integrate with our existing tools (EHS platforms, BI tools, ticketing systems)?
 >
 > This is a community-built index of vendors doing interesting work in AI + safety. It is not curated for operational readiness, maturity, or compliance suitability.
+
 ---
-## 📹 Computer Vision Safety Tools
+
+## Computer Vision Safety Tools 📹
 
 AI-powered computer vision tools analyze video footage to detect PPE violations, unsafe behaviors, ergonomic risks, and near misses. These platforms help safety teams proactively respond to risks in real time using existing or upgraded camera infrastructure.
 
 - **Protex AI** – Configurable camera-based safety platform with role-based controls and flexible alerting. Ideal for enterprises.  
   [https://www.protex.ai](https://www.protex.ai)
-  
-- **Intenseye** – Real-time detection of PPE, ergonomics, near misses, and unsafe acts via existing cameras 
+
+- **Intenseye** – Real-time detection of PPE, ergonomics, near misses, and unsafe acts via existing cameras  
   [https://www.intenseye.com](https://www.intenseye.com)
 
 - **Visionify.ai** – Custom CV models for forklift detection, fall risk, and safety zone violations  
@@ -76,77 +79,78 @@ AI-powered computer vision tools analyze video footage to detect PPE violations,
 
 ---
 
-## 🏃‍♂️ AI-Powered Wearable Safety Devices
+## AI-Powered Wearable Safety Devices 🏃‍♂️
 
 Wearables use embedded sensors and AI to monitor posture, movement, environmental exposures, and proximity risks. These tools provide real-time feedback to workers and data-driven insights to safety teams.
 
-- **Soter Analytics** – Provides wearable solutions that monitor workers' movements, offering real-time feedback to prevent musculoskeletal injuries and promote safe ergonomic practices.  
+- **Soter Analytics** – Wearables that monitor movement and give ergonomic feedback in real time  
   [https://www.soteranalytics.com](https://www.soteranalytics.com)
 
-- **Kinetic** – Develops wearable devices that detect high-risk postures and movements, delivering instant feedback to workers and actionable insights to safety managers to reduce workplace injuries.  
+- **Kinetic** – Detects high-risk movements and provides real-time feedback to reduce strain injuries  
   [https://www.wearkinetic.com](https://www.wearkinetic.com)
 
-- **Modjoul** – Offers a smart belt equipped with sensors to monitor various safety metrics, including posture, motion, and environmental conditions, aiming to prevent injuries and improve worker safety.  
+- **Modjoul** – Smart belt that tracks posture, motion, and environmental conditions  
   [https://www.modjoul.com](https://www.modjoul.com)
 
-- **StrongArm Technologies** – Provides wearable devices that collect data on worker movements and environmental conditions, using AI to analyze risks and provide insights to enhance workplace safety.  
+- **StrongArm Technologies** – Wearables that collect motion and environment data for safety analytics  
   [https://www.strongarmtech.com](https://www.strongarmtech.com)
 
-- **MākuSafe** – Uses a wearable armband and environmental sensors to collect real-time safety data, with machine learning models identifying leading indicators of risk to support proactive safety interventions.  
+- **MākuSafe** – Arm-mounted sensors track environment and worker motion; AI predicts leading indicators of risk  
   [https://makusafe.com](https://makusafe.com)
 
-- **Rombit** – Offers connected wearables and AI solutions to improve worker safety through proximity alerts, lone worker detection, and real-time incident response.  
+- **Rombit** – Proximity detection and lone worker alerts via connected wearables  
   [https://rombit.be](https://rombit.be)
 
 ---
 
-## 📋 JHA / JSA Tools with AI Capability
+## JHA / JSA Tools with AI Capability 📋
 
 AI-enhanced Job Hazard Analysis (JHA) and Job Safety Analysis (JSA) tools help teams identify risks, suggest controls, and automate field safety documentation more efficiently.
 
-- **FieldKo** – AI-enhanced JHA/JSA generation on Salesforce, with hazard templates and permit integrations  
+- **FieldKo** – JHA/JSA automation with AI-powered hazard suggestions in a Salesforce-native app  
   [https://www.fieldko.com](https://www.fieldko.com)
 
-- **Process Master AI** – Industrial AI platform that leverages deep learning to predict, prevent, and   explain safety-critical failures in manufacturing and process operations  
+- **Process Master AI** – Predicts and prevents safety-critical process failures using AI  
   [https://www.processmaster.ai](https://www.processmaster.ai)
 
 ---
 
-## 🗣️ Natural Language Processing (NLP) Tools for Safety Management
+## Natural Language Processing (NLP) Tools for Safety Management 🗣️
 
 These tools use NLP to extract insights from safety reports, regulations, and unstructured incident data. Common applications include compliance parsing, trend detection, and automated reporting.
 
-- **ehsAI** – Leverages natural language processing to automate the extraction and interpretation of regulatory documents, streamlining compliance processes and reducing manual review time.  
+- **ehsAI** – Parses environmental regulations and converts them into actionable tasks  
   [https://www.ehsai.com](https://www.ehsai.com)
 
-- **Hypertrain.ai** – Provides AI-powered safety management software designed to revolutionize how companies identify hazards, communicate risks, and learn from incidents, aiming to enhance overall workplace safety.  
+- **Hypertrain.ai** – Uses NLP to improve incident reporting, root cause analysis, and hazard communication  
   [https://hypertrain.ai/](https://hypertrain.ai/)
+
 ---
 
-## 🧰 Traditional EHS Platforms with AI Features
+## Traditional EHS Platforms with AI Features 🧰
 
 These full-service EHS platforms have added AI capabilities—such as machine learning, NLP, or recommendation engines—on top of traditional functionality like incident, audit, and compliance management.
 
-- **Benchmark Gensuite** – 'Genny AI' includes form suggestions, summarization, and risk recommendations  
+- **Benchmark Gensuite** – 'Genny AI' provides intelligent form suggestions and risk scoring  
   [https://benchmarkgensuite.com](https://benchmarkgensuite.com)
 
-- **ComplianceQuest** – Salesforce-native platform with AI for document parsing, root cause analysis, and safety trend detection  
+- **ComplianceQuest** – Salesforce-native QHSE platform with AI for trend detection and document analysis  
   [https://www.compliancequest.com](https://www.compliancequest.com)
 
-- **Serenity EHS** – A native ServiceNow application offering EHS management with AI-enabled workflows, predictive risk scoring, and automation for incident, audit, and corrective action processes  
+- **Serenity EHS** – Built on ServiceNow, with AI-powered workflows and predictive safety risk scoring  
   [https://www.serenityehs.com](https://www.serenityehs.com)
 
-- **Evotix** – Focused on safety culture with machine learning to detect weak signals in incident trends  
+- **Evotix** – Detects weak signals in safety data to uncover leading indicators  
   [https://www.evotix.com](https://www.evotix.com)
 
-- **SafetyCulture** – Popular EHS platform offering new AI-powered tools for inspections, training, and hazard identification, with a focus on usability and mobile-first workflows  
+- **SafetyCulture** – AI-powered tools for audits, training, and hazard recognition  
   [https://safetyculture.com/app/ai-tools/](https://safetyculture.com/app/ai-tools/)
 
 ---
-## 🧩 Open Source AI Tools for Workplace Safety
+
+## Open Source AI Tools for Workplace Safety 🧩
 
 These community-developed or research-driven tools are open source and often used as foundational building blocks or experimentation platforms in workplace safety innovation.
-Open source tools offer transparency, customizability, and community collaboration. These projects are typically published under permissive licenses, allowing safety teams or developers to build, modify, or extend AI capabilities for workplace risk management, compliance, and behavioral analysis.
 
 These tools are ideal for:
 - Research groups
@@ -154,22 +158,18 @@ These tools are ideal for:
 - Tech-forward safety orgs
 - Startups or vendors building their own safety tooling
 
----
-
-- **RECKONition** – An NLP-based open-source system for analyzing accident reports and extracting incident insights to support prevention strategies in industrial settings  
+- **RECKONition** – NLP system for analyzing accident reports and extracting safety insights  
   [https://arxiv.org/abs/2104.14150](https://arxiv.org/abs/2104.14150)
 
-- **LogDoctor** – A decentralized, privacy-first occupational health and safety platform designed for healthcare, using open-source machine intelligence and NLP to extract risks from text  
+- **LogDoctor** – Privacy-first OHS monitoring for healthcare settings, built on decentralized AI  
   [https://arxiv.org/abs/2305.09243](https://arxiv.org/abs/2305.09243)
 
-- **Clip2Safety** – A vision-language model (VLM) framework that combines computer vision with natural language processing to detect and explain safety compliance using AI models like CLIP  
+- **Clip2Safety** – Combines vision + language models to detect PPE compliance and explain safety risks  
   [https://arxiv.org/abs/2408.07146](https://arxiv.org/abs/2408.07146)
-
-Note: Some of these are early-stage research projects, not polished tools—but they offer strong technical foundations for future development or integration.
 
 ---
 
-## 🙌 Contributing
+## Contributing 🙌
 
 Want to add a vendor? If you're technical, open a pull request with:
 
@@ -178,7 +178,8 @@ Want to add a vendor? If you're technical, open a pull request with:
 - Link  
 - What category it belongs in  
 
-If you're not on GitHub, you can shoot me a DM on LinkedIn. 
+If you're not on GitHub, you can shoot me a DM on LinkedIn.
+
 ---
 
 🧭 This project is maintained by [@ariannabhoward](https://www.linkedin.com/in/ariannabhoward/) — reach out on LinkedIn with questions or suggestions.
