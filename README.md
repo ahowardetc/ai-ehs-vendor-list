@@ -187,9 +187,14 @@ This is a community-built index of vendors doing interesting work in AI + EHS. I
 
 ---
 
+## ✍🏽 Self-Service AI Tools (LLMs, Productivity, etc.) 
+
+Coming Soon.
+
+---
 ## 🌱 Environment / Sustainability / ESG AI Tools
 
-AI tools focused on emissions tracking, compliance, sustainability reporting, and environmental risk prediction are coming soon. Know a good one? Submit it via pull request or DM me on LinkedIn.
+Coming Soon.
 
 ---
 
